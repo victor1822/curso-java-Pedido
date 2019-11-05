@@ -9,3 +9,7 @@ O programa Le os dados do cliente, e os itens do pedido e retorna o resumo da co
 Se a descricao nao ficou clara, o programa executa de acordo com o print do console demonstrado a seguir:
 
 ![](images/Capturar.PNG)
+
+As classes foram implementadas seguindo o seguinte diagrama de Classes:
+
+![](images/Capturar2.PNG)
